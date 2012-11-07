@@ -1,2 +1,5 @@
 
 boost_libraries
+
+*.xcscheme
+xcuserdata
