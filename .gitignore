@@ -1,0 +1,7 @@
+
+boost_libraries
+
+*.xcscheme
+xcuserdata
+
+built_artifacts
